@@ -1,4 +1,4 @@
-# nvm Road Mapyyy
+# nvm Road Map
 
 This is a list of the primary features planned for `nvm`:
 
